@@ -1203,16 +1203,11 @@ strong {
 @media (min-width: 992px) { /* apply only on desktop screens */
   .contact-column {
     position: relative;
-    left: -35px; /* move slightly left to fix overlap */
+    left: -55px; /* move slightly left to fix overlap */
   }
 }
-/*---------------------------------------
-  CUSTOM FIX: Move "Opening Hours." text
------------------------------------------*/
-.opening-hours-title {
-  position: relative;
-  left: 50px; /* move 30px to the right */
-}
+
+
 
 
 
