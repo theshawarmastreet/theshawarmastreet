@@ -1206,6 +1206,13 @@ strong {
     left: -35px; /* move slightly left to fix overlap */
   }
 }
+/*---------------------------------------
+  CUSTOM FIX: Move "Opening Hours." text
+-----------------------------------------*/
+.opening-hours-title {
+  position: relative;
+  left: 30px; /* move 30px to the right */
+}
 
 
 
