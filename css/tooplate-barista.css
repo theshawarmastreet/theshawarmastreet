@@ -1197,4 +1197,13 @@ strong {
     top: 13px;
   }
 }
+/*---------------------------------------
+  CUSTOM FIX: Footer Contact Column
+-----------------------------------------*/
+@media (min-width: 992px) { /* apply only on desktop screens */
+  .contact-column {
+    position: relative;
+    left: -10px; /* move slightly left to fix overlap */
+  }
+}
 
