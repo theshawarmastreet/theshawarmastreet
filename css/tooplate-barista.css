@@ -1203,8 +1203,9 @@ strong {
 @media (min-width: 992px) { /* apply only on desktop screens */
   .contact-column {
     position: relative;
-    left: -20px; /* move slightly left to fix overlap */
+    left: -35px; /* move slightly left to fix overlap */
   }
 }
+
 
 
