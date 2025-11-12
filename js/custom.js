@@ -11,6 +11,7 @@
     $(function() {
       $('.hero-slides').vegas({
           slides: [
+              { src: 'images/slides/ss_logo_tagline.jpeg' },
               { src: 'images/slides/friends_eating_shavarma.jpg' },
               { src: 'images/happy-waitress-giving-coffee-customers-while-serving-them-coffee-shop.jpg' },
               { src: 'images/young-female-barista-wear-face-mask-serving-take-away-hot-coffee-paper-cup-consumer-cafe.jpg' }
